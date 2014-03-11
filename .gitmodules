@@ -1,0 +1,3 @@
+[submodule "ext-libs/socket.IO-objc"]
+	path = ext-libs/socket.IO-objc
+	url = https://github.com/pkyeck/socket.IO-objc.git
